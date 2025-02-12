@@ -30,7 +30,7 @@ HayFrp Launcher V3 是一款基于 **HayFrp Console UI、Tauri、Go** 的现代�
 
 如果您在使用过程中遇到任何问题或有任何建议，欢迎通过以下方式联系我们：
 
-- **官方论坛**：[HayFrp 论坛](https://bbs.hxit.top)
+- **官方论坛**：[和谐论坛](https://bbs.hxit.top)
 - **电子邮件**：hayfrp@hxit.top
 - **GitHub Issues**：[HayFrp Launcher V3 Issues](https://github.com/OoyonghongoO/HayFrp-Launcher/issues)
 
