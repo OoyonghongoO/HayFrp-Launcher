@@ -2,6 +2,9 @@
 
 HayFrp Launcher V3 是一款基于 **HayFrp Console UI、Tauri、Go** 的现代化启动器，专为 HayFrp 用户设计，旨在提供更便捷、高效的内网穿透服务体验。通过简洁的界面和强大的功能，HayFrp Launcher V3 帮助用户轻松管理和配置内网穿透隧道。
 
+![image](https://github.com/user-attachments/assets/f9049692-2e85-42d7-a5ce-f4b606c47f81)
+
+
 ## 主要特性☀️
 
 - **基于 HayFrp Console**：完全兼容 HayFrp Console 的 API，支持无缝对接 HayFrp 服务。
@@ -14,7 +17,7 @@ HayFrp Launcher V3 是一款基于 **HayFrp Console UI、Tauri、Go** 的现代�
 - **开机启动**：HayFrp Launcher Backend将会在开机自启动，您可以开机就在云端控制设备并下发隧道启动或者命令操作等
 - **自动签到**：没错，在HayFrp Launcher 3.0.7版本支持了自动签到，只要启用开机自启动或者打开软件等让HayFrp Launcher Backend程序活性的操作即可实现签到操作。
 
-## 安装与使用
+## 安装与使用✈️
 
 ### 安装📱
 
@@ -28,7 +31,7 @@ HayFrp Launcher V3 是一款基于 **HayFrp Console UI、Tauri、Go** 的现代�
 3. 在界面中创建隧道配置。
 4. 启动隧道，享受内网穿透服务。
 
-### 未来计划🚞
+## 未来计划🚞
 
 1. 支持开机自启动（3.0.6版本已完善✅
 2. 支持云端控制（3.0.4版本已完善✅
