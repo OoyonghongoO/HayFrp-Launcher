@@ -16,6 +16,8 @@ HayFrp Launcher V3 是一款基于 **HayFrp Console UI、Tauri、Go** 的现代�
 - **远程控制**：HayFrp Launcher Backend始终在后台运行，您可以远程下发隧道启动、下发终端命令等。
 - **开机启动**：HayFrp Launcher Backend将会在开机自启动，您可以开机就在云端控制设备并下发隧道启动或者命令操作等
 - **自动签到**：没错，在HayFrp Launcher 3.0.7版本支持了自动签到，只要启用开机自启动或者打开软件等让HayFrp Launcher Backend程序活性的操作即可实现签到操作。
+![image](https://github.com/user-attachments/assets/614e4ba9-6091-4aea-8921-199d1157eb8e)
+
 
 ## 安装与使用✈️
 
